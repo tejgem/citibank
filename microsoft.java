@@ -3,4 +3,5 @@
  the details mentioned about there is is all are our employeees
 
  they all get more then one lakh salary
+  im updating line by  git reset
 
